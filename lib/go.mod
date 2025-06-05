@@ -1,6 +1,6 @@
 module github.com/smartcontractkit/chainlink-testing-framework/lib
 
-go 1.24.0
+go 1.23.0
 
 require (
 	dario.cat/mergo v1.0.1
@@ -24,7 +24,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/lib/pq v1.10.9
-	github.com/onsi/gomega v1.35.1
+	github.com/onsi/gomega v1.37.0
 	github.com/otiai10/copy v1.14.0
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/pkg/errors v0.9.1
