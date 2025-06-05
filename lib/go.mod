@@ -55,6 +55,7 @@ require (
 	github.com/cockroachdb/fifo v0.0.0-20240606204812-0bbfbd93a7ce // indirect
 	github.com/ethereum/go-verkle v0.1.1-0.20240829091221-dffa7562dbe9 // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
+	github.com/otiai10/mint v1.6.3 // indirect
 	github.com/rs/cors v1.9.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 )
